@@ -1,5 +1,5 @@
 import { ThemeProvider } from './context/ThemeContext';
-import Header from './components/Header';
+
 import ExpenseForm from './components/ExpenseForm';
 import Budgetform from './components/BudgetForm';
 import Layout from './components/Layout';
